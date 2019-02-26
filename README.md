@@ -7,9 +7,9 @@ These instructions will get the command line tic tac toe game up and running on 
 
 ### Installation Overview
 
-1. git clone
-2. cd into root directory
-3. run node CLTicTacToe.js to get started
+1. `git clone`
+2. `cd` into root directory
+3. run `node CLTicTacToe.js` to get started
 
 ## Requirements
 
