@@ -108,7 +108,9 @@ class TicTacToe {
     }
 
     if (this.totalMoves === 9) {
-      console.log('\nThe game ends in a stalemate.\n>>');
+      console.log('\nThe game ends in a stalemate.');
+      this.displayBoard();
+      console.log('\n>>');
       Game = null;
       return true;
     }
